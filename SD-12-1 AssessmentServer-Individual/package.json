@@ -1,0 +1,12 @@
+{
+  "name": "sd-12-1-assessmentserver-individual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node json-server.js",
+    "dev": "nodemon json-server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
